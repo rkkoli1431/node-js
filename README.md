@@ -22,3 +22,17 @@
         => new Way
         => async
         => strick mode
+# require  ("/path) module and work the excution in node js 
+        1- Resolving the module
+          -> ./localpath
+          -> .json 
+        2- Loading the module
+          -> file content in loades
+          -> access the file type
+
+        3- Wrap inside the IIFE
+        
+        4- Evaluvation
+          -> module.exports
+
+        5- Caching 
