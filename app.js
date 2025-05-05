@@ -9,7 +9,7 @@ const {sumCalculate, mult} = require("./calculate");
 const data = require("./data.json");
 
 
-
+  
 
 // import {x,sumCalculate} from "./sum.js";
 var name = "Rahul Kohli";
