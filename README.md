@@ -36,3 +36,14 @@
           -> module.exports
 
         5- Caching 
+
+# MangoDB 
+        - Go to mangodb website 
+        - Create a free M0 cluster
+        - Create a user
+        - Get the connection string 
+        - Install Mango DB Compass   :- is software to help us to create database 
+        - Create a database
+        - Install mangodb packages
+        - Create a connection from code
+        - Document CRUD - Create, Read, Update, Delete
